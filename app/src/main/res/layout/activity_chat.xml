@@ -92,6 +92,7 @@
                 android:layout_marginLeft="10dp"
                 android:paddingRight="10dp"
                 android:src="@drawable/ic_attach_file_24dp" />
+
             <EditText
                 android:id="@+id/messageArea"
                 android:layout_width="0dp"
@@ -109,6 +110,8 @@
                 android:layout_marginRight="10dp"
                 android:paddingLeft="10dp"
                 android:src="@drawable/ic_send_24dp" />
+
+
         </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
